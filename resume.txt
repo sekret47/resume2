@@ -1,0 +1,21 @@
+<h2>Zhdan Dmitry</h2>
+
+<b>Phone:</b>  066 853 67 57
+<b>Adress:</b> Ukraine, Sebastopol, Orehovaya 1
+<b>Email:</b>  sekret47@gmail.com
+<b>Date of Birth:</b> 18.05.88
+<b>Skills and knowledge:</b>
+
+-HTML,CSS
+-CMS (Joomla,ModX)
+-PHP,Smarty
+-JavasScript,jQuery
+-SQL
+-OOP
+<b>Languages:</b>
+ - Russian (native)
+ - Ukrainian freely
+ - English (understanding documents in English)
+<b>Personal qualities:</b>
+Communication skills, commitment, responsibility, always try to bring everything 
+to its logical conclusion, would like to learn and expand their skills.
